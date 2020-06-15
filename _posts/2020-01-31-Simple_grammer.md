@@ -11,8 +11,6 @@ pinned: true
 
 
 <font face=仿宋 size=2>
-
-# 简单的Markdown介绍
 >*Markdown*初学习,记录笔记,以供之后查询参考。  
 >若文章有误，望以指正。
 + [1.标题](#1)
