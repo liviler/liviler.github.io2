@@ -9,8 +9,6 @@ toc: true
 pinned: true
 ---
 
-
-<font face=仿宋 size=2>
 >*Markdown*初学习,记录笔记,以供之后查询参考。  
 >若文章有误，望以指正。
 + [1.标题](#1)
@@ -442,4 +440,3 @@ $$ x=\frac{-b\pm\sqrt{b^2-4ac}}{2a} $$
 [7]<https://www.luogu.com.cn/blog/Lu-Anlai/Markdown-link-and-picture>
 
 ***
-</font>
