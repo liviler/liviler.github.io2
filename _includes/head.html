@@ -7,7 +7,30 @@
   <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-
+  
+  <!--设置背景图片>
+   <style>
+            #login_background{ 
+                /* div位置及大小,所在堆叠层设置 */
+                position: fixed;
+                top:0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                min-width: 1000px;
+                z-index: -10;
+                /* 背景图片设置 */
+                background-image: url(../images/background.jpg);
+                zoom: 1;
+                background-color: #ffff;
+                background-repeat: no-repeat;
+                background-position: center 0;
+                background-size: cover;
+                -webkit-background-size: cover;
+                -o-background-size: cover;
+            }
+ 
+        </style>
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
   <link rel="shortcut icon" href="{{ site.favicon }}">
